@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RAKIBX9 JARVIS</string>
+    <string name="jarvis_title">RAKIBX9 JARVIS</string>
+    <string name="jarvis_subtitle">Personal AI Assistant for Rakib</string>
+    <string name="system_online">SYSTEM ONLINE</string>
+    <string name="owner_rakib">COMMANDER: RAKIB</string>
+    <string name="listening_status">Listening to Rakib…</string>
+    <string name="speaking_status">Speaking…</string>
+    <string name="thinking_status">Processing Command…</string>
+    <string name="idle_status">Ready for Command</string>
+    <string name="tap_to_speak">Tap to Speak</string>
+    <string name="hold_to_talk">Listening…</string>
+    <string name="type_command_hint">Ask JARVIS or type a command…</string>
+    <string name="btn_send">Send</string>
+    <string name="welcome_message">Welcome back, Rakib. RAKIBX9 JARVIS is online. How can I help you today?</string>
+    <string name="welcome_message_bn">স্বাগতম রাকিব ভাই! RAKIBX9 JARVIS অনলাইন আছে। আমি আপনাকে কীভাবে সাহায্য করতে পারি?</string>
+</resources>

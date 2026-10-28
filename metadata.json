@@ -1,0 +1,6 @@
+{
+  "name": "RAKIBX9 JARVIS",
+  "description": "Personal AI Voice Assistant created for Rakib with voice recognition, speech synthesis, AI chat, and smart device actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
